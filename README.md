@@ -60,7 +60,9 @@ With a solid background in **accounting, bookkeeping, and financial reporting**,
 - 🧭 Identified high-delay routes, suppliers, and customers using booking dates, GPS data, and delivery performance.
 - 📦 Analysed material-wise shipment patterns to detect items with longer delivery times and frequent delays.
 - 🚀 Delivered actionable insights to improve route efficiency, supplier performance, and on-time delivery rates.
-  ![image]
+- [🔗 View Dashboard](https://www.linkedin.com/posts/shakhilmk_powerbi-dataanalytics-dashboarddesign-activity-7402353226202931200-XA2R?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC0NWoMBzI8vdlr4FqcpQiQhINB7oYjLFfM)
+  ![image](prestation_shakhil.jpg)
+  ![image](pbi_project_p1.png)
 
 ---
 
@@ -106,7 +108,7 @@ With a solid background in **accounting, bookkeeping, and financial reporting**,
     </tr>
     <tr>
       <td>📞</td>
-      <td>(+91) 940-085-9502</td>
+      <td>(+91) 9400 8595 02</td>
     </tr>
     <tr>
       <td>📍</td>
