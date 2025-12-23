@@ -40,6 +40,8 @@ With a solid background in **accounting, bookkeeping, and financial reporting**,
 - Prepared **Balance Sheets, P&L, and Cash Flow Statements.**
 - Managed **accounts payable and receivable with accuracy.**
 - Conducted **internal audits and ensured tax compliance.**
+
+  
 ---
 
 ## 📊 Projects  
