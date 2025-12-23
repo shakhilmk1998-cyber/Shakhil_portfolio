@@ -67,9 +67,9 @@ With a solid background in **accounting, bookkeeping, and financial reporting**,
 ---
 
 ## 📜 Certifications  
-- ✅ Codebasics Certified: Advanced Excel, Power BI Developer, SQL Developer  
-- 🎯 SPES-Rashtriya Raksha University: Certificate in Sports Analytics  
-- ⚽ Mad About Sports: Advanced Football Analytics Master Class  
+- ✅ Rows and columns Certified: Advanced Excel, Power BI , SQL   
+- 🎯 The Institute of Cost Accountants of India (ICMAI): Certificate in CAT  
+-  
 
 ---
 
