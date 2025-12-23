@@ -116,7 +116,7 @@ With a solid background in **accounting, bookkeeping, and financial reporting**,
     </tr>
     <tr>
       <td>⬇️</td>
-      <td><a href="Boniface_Data_Analyst.pdf">Download my Resume</a></td>
+      <td><a href="Shakhil_m_k_data_analyst_resume.pdf">Download my Resume</a></td>
     </tr>
     <tr>
       <td>🌐</td>
