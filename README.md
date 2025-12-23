@@ -103,10 +103,14 @@ With a solid background in **accounting, bookkeeping, and financial reporting**,
 <table>
   <tbody>
     <tr>
-      <td>📧</td>
-      <td><a href="shakhilmk.official@gmail.com">shakhilmk.official@gmail.com</a></td>
-    </tr>
-    <tr>
+  <td>📧</td>
+  <td>
+    <a href="mailto:shakhilmk.official@gmail.com">
+      shakhilmk.official@gmail.com
+    </a>
+  </td>
+</tr>
+<tr>
       <td>📞</td>
       <td>(+91) 9400 8595 02</td>
     </tr>
