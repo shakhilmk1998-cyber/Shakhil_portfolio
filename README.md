@@ -81,8 +81,7 @@ With a solid background in **accounting, bookkeeping, and financial reporting**,
 ![Power BI](https://img.shields.io/badge/-Power%20BI-239120?logo=Power-BI&logoColor=white)  
 ![MS Excel](https://img.shields.io/badge/-Excel-217346?logo=Microsoft-Excel&logoColor=white)  
 ![SQL](https://img.shields.io/badge/-SQL-CC2927?logo=MySQL&logoColor=white)  
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=Tableau&logoColor=white)  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white)  
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=Tableau&logoColor=white)    
 
 ![Sage 50 (Peachtree)](https://img.shields.io/badge/-Sage%2050%20(Peachtree)-00A651?logo=sage&logoColor=white)  
 ![QuickBooks](https://img.shields.io/badge/-QuickBooks-2CA01C?logo=quickbooks&logoColor=white)  
