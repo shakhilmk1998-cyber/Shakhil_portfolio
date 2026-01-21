@@ -76,7 +76,7 @@ With a solid background in **accounting, bookkeeping, and financial reporting**,
 - 📐 Built dynamic pricing logic for Subtotal, VAT, and Total All-In calculations.
 - 🗂️ Designed a scalable database architecture with auto-increment serial numbering and full CRUD operations.
 - 🚀 Improved operational efficiency by reducing manual errors and accelerating fuel cost analysis.
-   [🔗 View linkedin post](https://www.linkedin.com/posts/shakhilmk_excelvba-automation-dataanalytics-activity-7419592653190688769-N_Nq?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC0NWoMBzI8vdlr4FqcpQiQhINB7oYjLFfM)
+- [🔗 View linkedin post](https://www.linkedin.com/posts/shakhilmk_excelvba-automation-dataanalytics-activity-7419592653190688769-N_Nq?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC0NWoMBzI8vdlr4FqcpQiQhINB7oYjLFfM)
   ![image](vbapresentation.jpeg)
   
 ---
