@@ -54,6 +54,7 @@ With a solid background in **accounting, bookkeeping, and financial reporting**,
 - 🏢 Performed department-wise analysis to assess headcount and average salary comparisons.
 - 🚪 Analysed attrition trends to identify departments with the highest turnover.
 - 🎛️ Built an interactive Power BI dashboard with filters and KPIs for workforce insights.
+  
 
 ---
 
@@ -67,6 +68,16 @@ With a solid background in **accounting, bookkeeping, and financial reporting**,
   ![image](prestation_shakhil.jpg)
   ![image](pbi_project_p1.png)
 
+### ⛽ Fuel Pricing Entry & Management System – [Excel VBA]
+
+- 🧾 Developed an Excel VBA automation to manage aviation fuel pricing with high accuracy.
+- 🧩 Implemented UserForm-based data entry with validation and structured dropdown controls.
+- 💱 Automated currency and unit conversions to a standardized USD/Gallon format.
+- 📐 Built dynamic pricing logic for Subtotal, VAT, and Total All-In calculations.
+- 🗂️ Designed a scalable database architecture with auto-increment serial numbering and full CRUD operations.
+- 🚀 Improved operational efficiency by reducing manual errors and accelerating fuel cost analysis.
+-  [🔗 View linkedin post](https://www.linkedin.com/posts/shakhilmk_excelvba-automation-dataanalytics-activity-7419592653190688769-N_Nq?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC0NWoMBzI8vdlr4FqcpQiQhINB7oYjLFfM)
+- 
 ---
 
 ## 📜 Certifications  
