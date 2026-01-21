@@ -54,6 +54,7 @@ With a solid background in **accounting, bookkeeping, and financial reporting**,
 - 🏢 Performed department-wise analysis to assess headcount and average salary comparisons.
 - 🚪 Analysed attrition trends to identify departments with the highest turnover.
 - 🎛️ Built an interactive Power BI dashboard with filters and KPIs for workforce insights.
+  ![image](sql_pbi_project.png)
   
 
 ---
